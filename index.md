@@ -4,12 +4,11 @@ This will serve as a brief description of your project. Limit this to three sent
 | **Naks G** | **Dougherty Valley High School** | **Robotics and Computer Science** | **Incoming Sophomore** |
 |:--:|:--:|:--:|:--:|
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-  
+![Headstone Image](
 # Final Milestone
  
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone])](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 Motors are sensitive to input from the ultrasonic sensor
