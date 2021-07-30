@@ -1,4 +1,4 @@
-![image0](https://user-images.githubusercontent.com/88114329/127709606-4bb075df-c9bb-406c-a607-a3ff398fdae8.jpg)
+
 ﻿# Fully Autonomous Obstacle Avoiding car
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
