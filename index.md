@@ -19,5 +19,4 @@ This will serve as a brief description of your project. Limit this to three sent
 Motors are sensitive to input from the ultrasonic sensor
 
 # First Milestone
-  Motors are spinning and connected, was able to link sensor and led so same logic can be applied to this situation
-[![First Milestone])](https://www.youtube.com/watch?v=eR79pQUBRcc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eR79pQUBRcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
