@@ -9,14 +9,14 @@ This will serve as a brief description of your project. Limit this to three sent
 ![image0](https://user-images.githubusercontent.com/88114329/127709606-4bb075df-c9bb-406c-a607-a3ff398fdae8.jpg)
 
 
-![Headstone Image](
-# Final Milestone
- 
+![Headstone Image]!
 
-[![Final Milestone])](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+# First Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eR79pQUBRcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Second Milestone
 Motors are sensitive to input from the ultrasonic sensor
 
-# First Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eR79pQUBRcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Final Milestone
+[![Final Milestone])](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
