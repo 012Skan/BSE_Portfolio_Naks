@@ -20,3 +20,4 @@ Motors are sensitive to input from the ultrasonic sensor
 
 # First Milestone
   Motors are spinning and connected, was able to link sensor and led so same logic can be applied to this situation
+[![First Milestone])](https://www.youtube.com/watch?v=eR79pQUBRcc)
