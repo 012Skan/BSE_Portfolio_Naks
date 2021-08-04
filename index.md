@@ -19,4 +19,3 @@ This will serve as a brief description of your project. Limit this to three sent
 Motors are sensitive to input from the ultrasonic sensor
 
 # Final Milestone
-[![Final Milestone])](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
