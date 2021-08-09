@@ -1,0 +1,71 @@
+# BSE_Portfolio_Naks
+
+const int trigPin = 11; 
+const int echoPin = 12;
+
+int lspin1 = 8;
+int lspin2 = 7;
+
+int rspin1 = 5;
+int rspin2 = 4;
+
+float duration, distance; 
+
+void setup() { 
+ pinMode(trigPin, OUTPUT); 
+ pinMode(echoPin, INPUT); 
+ pinMode(lspin1, OUTPUT);
+ pinMode(lspin2, OUTPUT);
+ pinMode(rspin1, OUTPUT);
+ pinMode(rspin2, OUTPUT);
+  
+ pinMode(9, OUTPUT); 
+ pinMode(3, OUTPUT);
+ Serial.begin(9600); 
+
+}
+
+void loop() {
+  // put your setup code here, to run once:
+ analogWrite(9, 150);
+ analogWrite(3, 150);
+ float distance = getDistance();
+   Serial.print("Distance: "); 
+   Serial.println(distance); 
+   delay(100);
+
+  getDistance();
+
+   while (distance < 10) {
+      digitalWrite(lspin1, LOW);
+      digitalWrite(lspin2, HIGH);
+      digitalWrite(rspin1, HIGH);
+      digitalWrite(rspin2, LOW);
+      delay(1000);
+
+      
+      distance = getDistance();
+    }
+   digitalWrite(lspin1, HIGH);
+   digitalWrite(lspin2, LOW);
+   digitalWrite(rspin1, LOW);
+   digitalWrite(rspin2, HIGH);
+   delay(1000);
+   
+}
+  float getDistance(){
+    float result;
+    digitalWrite(trigPin, LOW); 
+   delayMicroseconds(2); 
+   digitalWrite(trigPin, HIGH); 
+   delayMicroseconds(10); 
+   digitalWrite(trigPin, LOW); 
+//  sending 
+   duration = pulseIn(echoPin, HIGH); 
+//   recieving
+//   #turning echopin on, sending a wave
+  
+   float distance = (duration*.0343)/2;
+//   speed * time = distance
+   return distance; 
+ }
