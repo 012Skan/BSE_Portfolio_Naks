@@ -1,10 +1,10 @@
 
-﻿# Fully Autonomous Obstacle Avoiding car
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Voice control car. 
+ I created a car which would be controlled by your voice, with a twist. There are commands which allow the car to turn, reverse, and of course, go forward. A simple, "go" will 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Naks G | Dougherty Valley HS | Robotics| Incoming Sophomore
+| Naks G | Dougherty Valley HS | Robotics and AI| Incoming Sophomore
 
 ![image0](https://user-images.githubusercontent.com/88114329/127709606-4bb075df-c9bb-406c-a607-a3ff398fdae8.jpg)
 
@@ -20,3 +20,7 @@ This milestone was critical in my learning process because I was able to underst
 Motors are sensitive to input from the ultrasonic sensor
 
 # Final Milestone
+
+# Demo Night Presentation 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X-ANne2SChw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
